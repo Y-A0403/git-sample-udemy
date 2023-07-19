@@ -5,8 +5,5 @@ localのマージを確認中
 
 githubのプルリク確認用2
 
-<<<<<<< HEAD
 localのマージを確認中2
-=======
-git pull 確認のためサーバー側で直書き
->>>>>>> aebab95e31f17caab4af450885459efb7dc115af
+
